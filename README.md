@@ -76,4 +76,8 @@ The Jupyter notebook contains the simulation procedures, analysis code, statisti
 
 This independent portfolio project draws on analytical challenges encountered in fluorescence lifetime microscopy and experimental biophysics. It demonstrates transferable skills in Python programming, scientific data analysis, statistical modelling and research reproducibility.
 
+## Statistical reliability
+
+![Statistical reliability of different analysis methods](figures/statistical_reliability.png)
+
 **All reported findings are from synthetic data and should not be interpreted as experimental biological results.**
